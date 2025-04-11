@@ -40,7 +40,7 @@ Requirements:
 - Python is NOT required for end users. This `.exe` is fully packaged.
 - The following tools must be available on the system:
   - `kape.exe` at:
-    `C:\Users\Demar's PC\Downloads\kape\KAPE\kape.exe`
+    `C:\Users\<Your_PC>\Downloads\kape\KAPE\kape.exe`
   - `DumpIt.exe` (or similar) at:
     `C:\tools\DumpIt.exe`
 
