@@ -57,6 +57,7 @@ To change the paths for KAPE or DumpIt:
    `python -m PyInstaller --onefile --windowed triage_app.py`
 
 ---
+![image](https://github.com/user-attachments/assets/9832a566-2b05-4510-be66-7c808475a611)
 
 Disclaimer:
 -----------
